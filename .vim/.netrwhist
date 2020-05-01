@@ -1,0 +1,11 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =9
+let g:netrw_dirhist_9='/Users/arturolara-coronado/Box/school/SPRING 2020/algorithms/cartesia'
+let g:netrw_dirhist_8='/Users/arturolara-coronado/Box/school/SPRING 2020/algorithms'
+let g:netrw_dirhist_7='/Users/arturolara-coronado/Box/school/SPRING 2020/algorithms/rumor-mill'
+let g:netrw_dirhist_6='/Users/arturolara-coronado/Box/school/SPRING 2020/algorithms'
+let g:netrw_dirhist_5='/Users/arturolara-coronado/Box/school/SPRING 2020/algorithms/narrow-art-gallery'
+let g:netrw_dirhist_4='/Users/arturolara-coronado/Box/school/SPRING 2020/algorithms'
+let g:netrw_dirhist_3='/Users/arturolara-coronado/Box/school/SPRING 2020/algorithms/cartesia'
+let g:netrw_dirhist_2='/Users/arturolara-coronado/.ssh'
+let g:netrw_dirhist_1='/Users/arturolara-coronado'
